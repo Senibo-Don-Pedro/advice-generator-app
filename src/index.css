@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#shadow:hover {
+  box-shadow: 0px 0px 30px 1px hsl(150, 100%, 66%);
+}
